@@ -5,6 +5,8 @@ Implementations on 2 branches:
 * Plain react, based on window location pathname
 * Using react-router
 
+The app is deployed under: https://jvanhent.github.io/react-router-nav-ts/
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

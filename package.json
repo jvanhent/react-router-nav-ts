@@ -1,7 +1,7 @@
 {
   "name": "react-router-nav-ts",
   "version": "0.1.0",
-  "homepage": "https://jvanhent.github.io/react-router-nav-ts",
+  "homepage": "https://jvanhent.github.io/react-router-nav-ts/#",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
